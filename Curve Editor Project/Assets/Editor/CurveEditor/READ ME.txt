@@ -1,0 +1,6 @@
+Please make sure the folder is in Assets/Editor/CurveEditor
+
+All generated curves can be found in the Curve Data scritpable object and can be copied out.
+You can also copy your own curves into the Curve Data and edit them in the editor.
+
+Thank you for downloading!
